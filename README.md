@@ -1,1 +1,1 @@
-# MongoDB_AIML_2024
+# MongoDB Study Materials
